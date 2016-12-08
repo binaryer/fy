@@ -30,3 +30,6 @@ fy - < file_to_trans.txt
 
 林春宇@深圳  
 chunyu_lin@163.com
+
+## Download
+[https://github.com/binaryer/fy/releases](https://github.com/binaryer/fy/releases)
