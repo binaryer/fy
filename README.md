@@ -1,7 +1,7 @@
 # fy
 Minimal command line [ZHCN->ENG / ENG->ZHCN] translation tool, using [fanyi.baidu.com](http://fanyi.baidu.com)  
 
-极简的命令行[中英/英中]翻译工具, 使用[fanyi.baidu.com](http://fanyi.baidu.com)接口  
+极简的命令行[中英/英中]翻译工具, 使用 [fanyi.baidu.com](http://fanyi.baidu.com) 接口  
 
 开发框架: 
 + commons-io-2.5.jar
@@ -27,5 +27,5 @@ Minimal command line [ZHCN->ENG / ENG->ZHCN] translation tool, using [fanyi.baid
 
 ## Author:   
 
-林春宇@深圳
+林春宇@深圳  
 chunyu_lin@163.com
