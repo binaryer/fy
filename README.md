@@ -21,8 +21,8 @@ alias fy='java -jar /path/to/fy.jar'
 fy i love you
 
 #支持管道输入	
-echo hello|fy -
-cat file_to_trans.txt|fy -
+echo hello | fy -
+cat file_to_trans.txt | fy -
 fy - < file_to_trans.txt
 ```
 
