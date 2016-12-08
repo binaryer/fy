@@ -15,9 +15,11 @@ Minimal command line [ZHCN->ENG / ENG->ZHCN] translation tool, using [fanyi.baid
 	java -jar fy.jar i love you
 	java -jar fy.jar 我爱你
 
+	#alias
 	alias fy='java -jar /path/to/fy.jar'
 	fy i love you
 
+	#支持管道输入	
 	echo hello|fy -
 	cat file_to_trans.txt|fy -
 	fy - < file_to_trans.txt
