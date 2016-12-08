@@ -11,7 +11,7 @@ minimal command line [ZHCN->ENG / ENG->ZHCN] translation tool, using [fanyi.baid
 + groovy-json-2.4.7.jar
 + jodd-http-3.7.1.jar
 
-## Usage: 
+## Usage
 ```bash
 java -jar fy.jar i love you
 java -jar fy.jar 我爱你
@@ -26,7 +26,7 @@ cat file_to_trans.txt|fy -
 fy - < file_to_trans.txt
 ```
 
-## Author:   
+## Author
 
 林春宇@深圳  
 chunyu_lin@163.com
