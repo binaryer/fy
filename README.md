@@ -8,9 +8,7 @@ minimal command line [ZHCN->ENG / ENG->ZHCN] translation tool, using [fanyi.baid
 
 开发框架: 
 + commons-io-2.5.jar
-+ groovy-2.4.7.jar
 + groovy-json-2.4.7.jar
-+ jodd-core-3.7.1.jar
 + jodd-http-3.7.1.jar
 
 ## Usage: 
