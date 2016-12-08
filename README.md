@@ -25,6 +25,7 @@ Minimal command line [ZHCN->ENG / ENG->ZHCN] translation tool, using [fanyi.baid
 	fy - < file_to_trans.txt
 ```
 
-## Author: 
-	林春宇@深圳
-	chunyu_lin@163.com
+## Author:   
+
+林春宇@深圳
+chunyu_lin@163.com
