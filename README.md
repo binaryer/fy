@@ -9,3 +9,20 @@ Minimal command line [ZHCN->ENG / ENG->ZHCN] translation tool, using [fanyi.baid
 + groovy-json-2.4.7.jar
 + jodd-core-3.7.1.jar
 + jodd-http-3.7.1.jar
+
+## Usage: 
+```bash
+	java -jar fy.jar i love you
+	java -jar fy.jar 我爱你
+
+	alias fy='java -jar /path/to/fy.jar'
+	fy i love you
+
+	echo hello|fy -
+	cat file_to_trans.txt|fy -
+	fy - < file_to_trans.txt
+```
+
+## Author: 
+	林春宇@深圳
+	chunyu_lin@163.com
