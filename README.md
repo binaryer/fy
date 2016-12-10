@@ -6,7 +6,7 @@ minimal command line [ZHCN->ENG / ENG->ZHCN] translation tool, using [fanyi.baid
 
 极简的命令行[中英/英中]翻译工具, 使用 [fanyi.baidu.com](http://fanyi.baidu.com) 接口  
 
-Requires Java >= 7
+__Requires Java >= 7__
 
 开发框架: 
 + commons-io-2.5.jar
