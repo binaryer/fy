@@ -127,7 +127,7 @@ class Fy {
 				//.form("from", from, "to", to, "query", "aaa%0Abbb");
 				.query("from", from)
 				.query("to", to)
-				.query("query", "aaa%0Abbb");
+				.query("query", str_);
 				
 		//println str_;
 				
