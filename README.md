@@ -1,6 +1,6 @@
 # fy
 
-![](https://github.com/binaryer/fy/blob/master/fy.gif)  
+![](https://raw.githubusercontent.com/binaryer/fy/master/fy.gif)  
 
 a minimal command line [ZHCN->ENG / ENG->ZHCN] translation tool, using [fanyi.baidu.com](http://fanyi.baidu.com)  
 
